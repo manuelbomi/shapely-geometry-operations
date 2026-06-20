@@ -313,4 +313,5 @@ extracted from a GeoDataFrame.
 ---
 
 *Built by Emmanuel Oyekanlu — Principal Solution Architect Engineer*
+
 **AGV/AMR systems, precision agriculture, and large-scale data pipelines.**
