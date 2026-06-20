@@ -1,6 +1,6 @@
 # Shapely Geometry Operations
 ### Geometric Computation for AGV Geofencing, Field Analysis & Spatial Pipelines
-**Author:** Emmanuel Oyekanlu — Principal Data Engineer
+**Author:** Emmanuel Oyekanlu — Principal AI/Data Engineer
 
 ---
 
